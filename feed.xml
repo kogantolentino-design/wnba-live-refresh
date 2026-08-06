@@ -1,1 +1,7 @@
-
+<rss version="2.0">
+      <channel>
+        <title>WNBA Live Scoreboard</title>
+        <description>Auto-updating WNBA scoreboard feed</description>
+        
+      </channel>
+    </rss>
