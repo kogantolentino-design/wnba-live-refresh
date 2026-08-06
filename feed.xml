@@ -1,7 +1,34 @@
-<rss version="2.0">
-      <channel>
-        <title>WNBA Live Scoreboard</title>
-        <description>Auto-updating WNBA scoreboard feed</description>
-        
-      </channel>
-    </rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WNBA Live Scoreboard]]></title>
+        <description><![CDATA[Auto-updating WNBA scoreboard feed]]></description>
+        <link>https://www.wnba.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 06 Aug 2026 22:40:39 GMT</lastBuildDate>
+        <atom:link href="https://kogantolentino-design.github.io/wnba-live-refresh/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Las Vegas Aces 0 - 0 Indiana Fever]]></title>
+            <description><![CDATA[Thu, August 6th at 7:00 PM EDT]]></description>
+            <guid isPermaLink="false">Las Vegas Aces 0 - 0 Indiana Fever</guid>
+            <pubDate>Thu, 06 Aug 2026 23:00:00 GMT</pubDate>
+            <homeLogo>https://a.espncdn.com/i/teamlogos/wnba/500/ind.png</homeLogo>
+            <awayLogo>https://a.espncdn.com/i/teamlogos/wnba/500/lv.png</awayLogo>
+        </item>
+        <item>
+            <title><![CDATA[Los Angeles Sparks 0 - 0 Minnesota Lynx]]></title>
+            <description><![CDATA[Thu, August 6th at 9:00 PM EDT]]></description>
+            <guid isPermaLink="false">Los Angeles Sparks 0 - 0 Minnesota Lynx</guid>
+            <pubDate>Fri, 07 Aug 2026 01:00:00 GMT</pubDate>
+            <homeLogo>https://a.espncdn.com/i/teamlogos/wnba/500/min.png</homeLogo>
+            <awayLogo>https://a.espncdn.com/i/teamlogos/wnba/500/la.png</awayLogo>
+        </item>
+        <item>
+            <title><![CDATA[Toronto Tempo 0 - 0 Portland Fire]]></title>
+            <description><![CDATA[Thu, August 6th at 10:00 PM EDT]]></description>
+            <guid isPermaLink="false">Toronto Tempo 0 - 0 Portland Fire</guid>
+            <pubDate>Fri, 07 Aug 2026 02:00:00 GMT</pubDate>
+            <homeLogo>https://a.espncdn.com/i/teamlogos/wnba/500/scoreboard/por.png</homeLogo>
+            <awayLogo>https://a.espncdn.com/i/teamlogos/wnba/500/tor.png</awayLogo>
+        </item>
+    </channel>
+</rss>
