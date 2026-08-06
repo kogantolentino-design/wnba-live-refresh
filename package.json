@@ -1,8 +1,9 @@
 {
   "name": "wnba-live-refresh",
   "version": "1.0.0",
-  "main": "generate.js",
+  "type": "module",
   "dependencies": {
+    "rss": "^1.2.2",
     "node-fetch": "^3.3.2"
   }
 }
