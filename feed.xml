@@ -4,12 +4,12 @@
         <description><![CDATA[Auto-updating WNBA scoreboard feed]]></description>
         <link>https://www.wnba.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Aug 2026 22:40:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 00:41:31 GMT</lastBuildDate>
         <atom:link href="https://kogantolentino-design.github.io/wnba-live-refresh/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Las Vegas Aces 0 - 0 Indiana Fever]]></title>
-            <description><![CDATA[Thu, August 6th at 7:00 PM EDT]]></description>
-            <guid isPermaLink="false">Las Vegas Aces 0 - 0 Indiana Fever</guid>
+            <title><![CDATA[Las Vegas Aces 64 - 55 Indiana Fever]]></title>
+            <description><![CDATA[6:16 - 4th Quarter]]></description>
+            <guid isPermaLink="false">Las Vegas Aces 64 - 55 Indiana Fever</guid>
             <pubDate>Thu, 06 Aug 2026 23:00:00 GMT</pubDate>
             <homeLogo>https://a.espncdn.com/i/teamlogos/wnba/500/ind.png</homeLogo>
             <awayLogo>https://a.espncdn.com/i/teamlogos/wnba/500/lv.png</awayLogo>
